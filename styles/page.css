@@ -1,0 +1,93 @@
+@import url(main.css);
+
+.head__shot {
+    min-width: 50px;
+    height: 500px;
+    margin-left: 100px;
+}
+
+
+.nav__bar {
+    display:flex;
+    flex-wrap:wrap-reverse;
+}
+
+.footer {
+    background-color:rgb(7, 53, 45);
+    color:honeydew;
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    font-size: smaller;
+    padding: 2em;
+    margin-top: 40px;
+}
+
+.contact__info {
+    margin-bottom: 30em;
+}
+
+.subpage--contact {
+    display: flex;
+    justify-content: left;
+    margin-left: 1em;
+}
+
+.contact_detail {
+    margin-left: 1em;
+}
+
+.projects__link {
+    margin-left: 1em;
+}
+
+.subpage--projects {
+    margin-left: 1em;
+}
+
+.react__logo {
+    padding: 2em;
+    width: 10%;
+    height: 10%;
+}
+
+.subpage--techstack {
+    margin-left: 1em;
+}
+
+.js__logo {
+    padding: 2em;
+    width: 10%;
+    height: 10%;
+}
+
+.html__logo {
+    padding: 4em;
+    width: 10%;
+    height: 10%;
+}
+
+.sql__logo {
+    padding: 2em;
+    width: 10%;
+    height: 10%;
+}
+
+.python__logo {
+    padding: 2em;
+    width: 10%;
+    height: 10%;
+}
+
+.django__logo {
+    width: 10%;
+    height: 10%;
+}
+
+.tech_detail {
+    display: flex;
+    justify-content: left;
+    margin-left: 1em;
+
+}
